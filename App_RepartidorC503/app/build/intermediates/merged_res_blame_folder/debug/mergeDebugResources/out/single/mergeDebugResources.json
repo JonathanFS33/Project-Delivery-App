@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_arrow3.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/arrow3.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/layout_activity_registrarse.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_registrarse.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/font_stricken_brush2.otf.flat",
+        "source": "com.apprepartidor.app-main-33:/font/stricken_brush2.otf"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/layout_activity_splash_screen.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_arrow.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/arrow.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/font_stricken_brush.otf.flat",
+        "source": "com.apprepartidor.app-main-33:/font/stricken_brush.otf"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/layout_activity_ubicacion.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_ubicacion.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_edit_text_shape2.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/edit_text_shape2.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_google32x32.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/google32x32.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_arrow2.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/arrow2.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_facebook32x32.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/facebook32x32.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_user32x32.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/user32x32.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_padlock.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/padlock.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_logo_proyecto_casi_sin_bordes.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/logo_proyecto_casi_sin_bordes.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_edit_text_shape.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/edit_text_shape.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.apprepartidor.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/drawable_mail.png.flat",
+        "source": "com.apprepartidor.app-main-33:/drawable/mail.png"
+    },
+    {
+        "merged": "com.apprepartidor.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.apprepartidor.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

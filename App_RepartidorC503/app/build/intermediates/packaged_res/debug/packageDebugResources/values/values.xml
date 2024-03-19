@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="editText">#4E4E4E</color>
+    <color name="fondo">#383838</color>
+    <color name="letras">#FFD600</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">App repartidor</string>
+    <style name="Base.Theme.AppRepartidor" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AppRepartidor" parent="Base.Theme.AppRepartidor"/>
+</resources>

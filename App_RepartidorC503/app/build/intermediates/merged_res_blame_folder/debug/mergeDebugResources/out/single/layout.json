@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.apprepartidor.app-mergeDebugResources-30:/layout/activity_ubicacion.xml",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_ubicacion.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-mergeDebugResources-30:/layout/activity_splash_screen.xml",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-mergeDebugResources-30:/layout/activity_registrarse.xml",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_registrarse.xml"
+    },
+    {
+        "merged": "com.apprepartidor.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.apprepartidor.app-main-33:/layout/activity_main.xml"
+    }
+]
